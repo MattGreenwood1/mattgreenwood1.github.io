@@ -3,11 +3,9 @@
 
 # Site settings
 title: Matt Greenwood Counselling
-description: |
-  Private Counselling   
-  Services in Durham City  
+description: 
 owner: Matt Greenwood # or company name
-telephone: 07581 530400 
+#telephone: 07581 530400  
 first_published: 2018 # if migrating another site, the year of your first publish
 email: mattgreenwoodcounselling@yahoo.com
 baseurl: "" # the subpath of your site, e.g. /blog
